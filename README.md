@@ -16,7 +16,7 @@ box-breathing.nvim is a plugin that supports box breathing which is effective fo
 
 ```lua
 {
-  "yourusername/box-breathing.nvim",
+  "ishiooon/box-breathing.nvim",
   config = {
     -- オプションの設定（省略可能）
     -- Optional configuration
