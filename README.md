@@ -23,7 +23,6 @@ box-breathing.nvim is a plugin that supports box breathing which is effective fo
     duration = 4,  -- 各辺の移動時間（秒） / Movement duration per edge (seconds)
     animation_interval = 50,  -- アニメーションの更新間隔（ミリ秒） / Animation update interval (milliseconds)
   }
-  end,
 }
 ```
 
